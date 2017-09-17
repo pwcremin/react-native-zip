@@ -1,20 +1,27 @@
-
 {
-  "name": "react-native-react-native-zip",
+  "name": "react-native-zip",
   "version": "1.0.0",
-  "description": "",
+  "description": "zip files in react native",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pwcremin/react-native-zip.git"
+  },
   "keywords": [
-    "react-native"
+    "react",
+    "native",
+    "module",
+    "zip",
+    "ios",
+    "android"
   ],
-  "author": "",
-  "license": "",
-  "peerDependencies": {
-    "react-native": "^0.41.2",
-    "react-native-windows": "0.41.0-rc.1"
-
-  }
+  "author": "patrick cremin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pwcremin/react-native-zip/issues"
+  },
+  "homepage": "https://github.com/pwcremin/react-native-zip#readme"
 }
